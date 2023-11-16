@@ -1,4 +1,5 @@
 # News Website using ApiNews Angular
+![localhost_4200_ (3)](https://github.com/KhadijaBelmadani/News-Website-Angular/assets/122830181/4357f79e-7d7d-475d-ad04-e55cca83403b)
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.4.
 
